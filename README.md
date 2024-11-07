@@ -1,0 +1,5 @@
+# Hockey's
+### Technologies used
+html and tailwind css
+### Live link
+https://aburaihan98.github.io/html-tailwind-Hockey/
